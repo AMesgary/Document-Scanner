@@ -1,0 +1,7 @@
+numpy>=1.24,<3
+opencv-python>=4.8
+matplotlib>=3.7
+torch>=2.2
+jupyterlab>=4.0
+# Optional: real-photo OCR evaluation also requires the system Tesseract executable
+# pytesseract>=0.3.10
