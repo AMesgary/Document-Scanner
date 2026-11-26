@@ -219,14 +219,6 @@ The original course dataset, real document photos, and trained model weights are
 └── README.md
 ```
 
-## Limitations and Future Work
-
-The main limitation was the gap between synthetic and real document photos. Generating realistic training data turned out to be just as important as designing the networks.
-
-If I continue this project, I would focus on improving the synthetic data generation process, experimenting with more diverse backgrounds and lighting conditions, and improving corner detection on real images.
-
-I would also like to experiment with jointly optimizing corner detection and enhancement, rather than training the two networks independently.
-
 ---
 
 Course project - Fundamentals of Computer Vision, Spring 2026.
